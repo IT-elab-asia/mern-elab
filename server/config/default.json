@@ -1,0 +1,7 @@
+{
+  "serverPort" : 5000,
+  "dbUrl": "mongodb+srv://mydruh:556629asdasd@cluster666.4zz19.mongodb.net/elabReact?retryWrites=true&w=majority",
+  "secretKey": "h8d9as8hdashdah8dh9dashdas",
+  "filePath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\files",
+  "staticPath": "C:\\Users\\tim\\Desktop\\mern-cloud-disk\\server\\static"
+}
